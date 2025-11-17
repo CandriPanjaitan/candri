@@ -209,6 +209,17 @@ section {
   color: var(--primary-color);
 }
 
+/* Tujuan Dicoding Section */
+#tujuan-dicoding {
+  background: #f4f4f4;
+  text-align: center;
+}
+
+.tujuan-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 /* Contact Section */
 .contact-form {
   max-width: 600px;
